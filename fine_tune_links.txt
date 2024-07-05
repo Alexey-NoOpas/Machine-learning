@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=LslC2nKEEGU&t=612s - Fine-tune LLM на своих данных
+https://www.youtube.com/watch?v=z2QE12p3kMM - создание пользовательких датасетов
+https://www.superannotate.com/blog/llm-prompting-tricks - правила формулировки запросов
+https://github.com/deepset-ai/haystack-tutorials/blob/main/tutorials/02_Finetune_a_model_on_your_data.ipynb - Как тренить модель на своей информации
